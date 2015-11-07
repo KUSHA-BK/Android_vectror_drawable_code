@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:targetApi="21"
+    android:width="216dp"
+    android:height="146dp"
+    android:viewportWidth="216"
+    app:vc_viewportWidth="216"
+    android:viewportHeight="146"
+    app:vc_viewportHeight="146">
+
+    <path
+        android:fillColor="#000000"
+        app:vc_fillColor="#000000"
+        android:pathData="M80.137,106.079 L108,82.859 L67.753,58.009 L40.215,80.089 Z"
+        app:vc_pathData="M80.137,106.079 L108,82.859 L67.753,58.009 L40.215,80.089 Z" />
+    <path
+        android:fillColor="#000000"
+        app:vc_fillColor="#000000"
+        android:pathData="M108,82.857 L135.945,106.078 L175.785,80.088 L148.248,58.009 Z"
+        app:vc_pathData="M108,82.857 L135.945,106.078 L175.785,80.088 L148.248,58.009 Z" />
+    <path
+        android:fillColor="#000000"
+        app:vc_fillColor="#000000"
+        android:pathData="M108.163,87.91 L108.163,87.746 L108.082,87.828 L108,87.746 L108,87.91
+L80.137,111.048 L68.16,103.227 L68.16,112.025 L108,135.898 L108,135.979
+L108.082,135.898 L108.163,135.979 L108.163,135.898 L148.085,112.025
+L148.085,103.227 L136.107,111.048 Z"
+        app:vc_pathData="M108.163,87.91 L108.163,87.746 L108.082,87.828 L108,87.746 L108,87.91
+L80.137,111.048 L68.16,103.227 L68.16,112.025 L108,135.898 L108,135.979
+L108.082,135.898 L108.163,135.979 L108.163,135.898 L148.085,112.025
+L148.085,103.227 L136.107,111.048 Z" />
+    <path
+        android:fillColor="#000000"
+        app:vc_fillColor="#000000"
+        android:pathData="M40.215,36.011 L67.753,58.009 L108,33.241 L80.137,10.021 Z"
+        app:vc_pathData="M40.215,36.011 L67.753,58.009 L108,33.241 L80.137,10.021 Z" />
+    <path
+        android:fillColor="#000000"
+        app:vc_fillColor="#000000"
+        android:pathData="M135.945,10.021 L108,33.241 L148.248,58.009 L175.785,36.011 Z"
+        app:vc_pathData="M135.945,10.021 L108,33.241 L148.248,58.009 L175.785,36.011 Z" />
+</vector>
