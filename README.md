@@ -106,15 +106,15 @@ C118.307,35.849,121.238,33.893,124.172,30.96 Z" />
 ![alt tag](https://github.com/KUSHA-BK/Android_vectror_drawable_code/blob/master/images/youtube_kusha_b_k_vector.png)
 
 #Permited
-commercial-use - This software and derivatives may be used for commercial purposes.
+commercial-use - This code may be used for commercial purposes.
 
-modifications - This software may be modified.
+modifications - This code may be modified.
 
-distribution - You may distribute this software.
+distribution - You may distribute this code.
 
-sublicense - You may grant a sublicense to modify and distribute this software to third parties not included in the license.
+sublicense - You may grant a sublicense to modify and distribute this code to third parties not included in the license.
 
-private-use - You may use and modify the software without distributing it.
+private-use - You may use and modify the code without distributing it.
 
 patent-use - This license provides an express grant of patent rights from the contributor to the recipient.
 
